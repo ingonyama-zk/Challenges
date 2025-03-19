@@ -22,5 +22,3 @@ Welcome to the Ingonyama Challenges repository! This is where you can showcase y
 ---
 
 **Note:** By submitting your solution, you’re taking the first step toward potentially joining the Ingonyama team. We’re excited to see what you come up with!
-
-For more about our careers and team, visit our [careers page](https://www.ingonyama.com/careers).
