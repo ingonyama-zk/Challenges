@@ -1,4 +1,4 @@
-# CHallenge: Minimal Viable Prover
+# Challenge: Minimal Viable Prover
 
 Below is an inefficent Prover protocol. Implement a Rust-code with the most efficient prover possible. You can use lambdaworks or arkworks.
 
