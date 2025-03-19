@@ -11,7 +11,7 @@ Welcome to the Ingonyama Challenges repository! This is where you can showcase y
 
 ## Available Challenges:
 
-- [**Sumcheck Engineering**]
+- [**Sumcheck Engineering**](https://github.com/ingonyama-zk/Challenges/commit/8798d925e8b7616d89b1e4e29c5b127f62dc029d)
 - [**A Modulo Machine**] 
 - [**Multiplier Micro-Architechture** ]
 - [**Broken Dlog**]
