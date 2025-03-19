@@ -11,13 +11,13 @@ Welcome to the Ingonyama Challenges repository! This is where you can showcase y
 
 ## Available Challenges:
 
-- [**Sumcheck Engineering**](Sumcheck_Engineering.md)
-- [**A Modulo Machine**] 
-- [**Multiplier Micro-Architechture** ]
-- [**Broken Dlog**]
-- [**Minimal Viable Prover**]
-- [**GPU Long Arithmetic**]
-- [**Polynomial Evaluation**]
+- [**Sumcheck Engineering**](/Sumcheck_Engineering.md)
+- [**A Modulo Machine**](/A_Modulo_Machine.md)
+- [**Multiplier Micro-Architechture**](/multiplier_micro_architecture.md)
+- [**Broken Dlog**](/Broken_Dlog)
+- [**Minimal Viable Prover**](Minimal_Viable_Prover.md)
+- [**GPU Long Arithmetic**](/GPU_Long_Arithmetic.md)
+- [**Polynomial Evaluation**](/Polynomial_Evaluation_Challenge.md)
 
 ---
 
